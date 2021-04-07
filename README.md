@@ -1,2 +1,2 @@
 # iiitd-tasks
-This repository contains solutions to 3 tasks provided by IIIT Delhi 
+This repository contains solutions to task 2 provided by IIIT Delhi 
