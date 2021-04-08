@@ -31,4 +31,5 @@ This repository contains solutions to task 2 provided by IIIT Delhi
 ### Note 
 
 **Every choice and experimental detail is explained with a markdown in the python notebook**
+
 **All the experiments are performed on Kaggle GPU with Kaggle Notebook**
