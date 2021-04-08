@@ -1,4 +1,4 @@
-# iiitd-tasks
+# IIITD-Task2
 This repository contains solutions to task 2 provided by IIIT Delhi 
 
 ## FrameWork Used
