@@ -27,3 +27,8 @@ This repository contains solutions to task 2 provided by IIIT Delhi
 *In this part while plotting the data before training the model on it **, we observe that each folder of certain class contains data from other classes also which hinders the training of model***
 
 *The accuracy achieved during training on this dataset does not yield accuracy more than 10%.*
+
+### Note 
+
+**Every choice and experimental detail is explained with a markdown in the python notebook**
+**All the experiments are performed on Kaggle GPU with Kaggle Notebook**
