@@ -7,6 +7,7 @@ This repository contains solutions to task 2 provided by IIIT Delhi
 ### Experimentations And Analysis
 
 **Part 1** 
+
 *Trained NeilClassifierModel on 62 classes on provided dataset and achieved 83-87% validation accuracy on 10% validation split*
 
 *NeilClassifierModel consists of almost 90,000 parameters, and has been designed using after performing several experiments.*
@@ -16,6 +17,7 @@ This repository contains solutions to task 2 provided by IIIT Delhi
 *While deciding the model parameters, we observed that BatchNormalisation helps in the training time and helps to converge faster, along with that dropout came out to be really necessary because when training without dropout the difference between validation and training accuracy was greater than 10% after 70% training accurcay.*
 
 **Part 2** 
+
 *In this Part of Task 2 we perform several analysis and observe the difference in training time between pretrained network and network with random weights.*
 
 *The Pretrained models which has been used for experimentations are MobileNet, ResNet and VGG16 and also NeilClassifierModel (Trained on CustomDataset with 0-9 Classes)*
